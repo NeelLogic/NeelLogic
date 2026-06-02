@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Neel Solanki 👋
 
-<!--
-**NeelLogic/NeelLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development & Network Engineering Student at Sheridan College
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Cloud Computing
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects
+- JobTrackr (Spring Boot + Angular + MySQL)
+- TripFlow AI (Capstone Project)
+
+☁️ Certifications
+- AWS Certified Developer Associate (In Progress)
+
+🛠 Tech Stack
+Java • Python • JavaScript • Spring Boot • Angular • MySQL • MongoDB • AWS • Git
+
+📚 Currently Learning
+- Spring Boot
+- Angular
+- Cloud Development
+- System Design
+
+📫 Connect With Me
+- LinkedIn: (your LinkedIn URL)
+- Email: solannee@sheridancollege.ca
