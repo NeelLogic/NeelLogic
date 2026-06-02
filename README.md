@@ -26,5 +26,5 @@ Java • Python • JavaScript • Spring Boot • Angular • MySQL • MongoDB
 - System Design
 
 📫 Connect With Me
-- LinkedIn: (your LinkedIn URL)
+- LinkedIn:www.linkedin.com/in/neelsolankii
 - Email: solannee@sheridancollege.ca
