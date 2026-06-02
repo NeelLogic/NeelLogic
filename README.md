@@ -19,11 +19,6 @@
 🛠 Tech Stack
 Java • Python • JavaScript • Spring Boot • Angular • MySQL • MongoDB • AWS • Git
 
-📚 Currently Learning
-- Spring Boot
-- Angular
-- Cloud Development
-- System Design
 
 📫 Connect With Me
 - LinkedIn:www.linkedin.com/in/neelsolankii
