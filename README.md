@@ -10,7 +10,7 @@ A full-stack application for organizing internship, co-op, and new-grad job appl
 
 **Tech:** Spring Boot, Angular, MySQL, REST APIs
 
-### TripFlow AI
+### [TripFlow AI](https://github.com/Tanish-Aggarwal1/TripFlowAI)
 
 An AI-assisted travel itinerary planner being developed as my capstone project. It focuses on personalized trip planning, route optimization, stop preferences, and community itinerary sharing.
 
